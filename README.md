@@ -52,10 +52,9 @@ Accretion is a fundamental process by which gravitational potential energy gets 
 ---
 
 # Instructions for Mentees:
-1) Create a private fork of this repo of the branch with your name on it
+1) Create a private fork of this repo and create a folder with your name on it
 2) Add all your week-wise theory summary reports, jupyter notebooks and other submission items 
 3) Submit a pull request so that I may merge your *completed* weekly submissions onto the main branch
 4) The code, example problems and summaries should be your own and not copied from anyone else
 
 
-If you want, I can format this into a PDF, LaTeX version, or a more polished project proposal.
